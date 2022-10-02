@@ -1,0 +1,6 @@
+SELECT
+    *
+INTO
+    CosmosOut
+FROM
+    tempdata

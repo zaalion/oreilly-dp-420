@@ -108,6 +108,7 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/conflict-resolution-policies
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-manage-conflicts?tabs=dotnetv2%2Capi-async%2Casync
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-manage-conflicts?tabs=dotnetv2%2Capi-async%2Casync#read-from-conflict-feed
 https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link
+https://learn.microsoft.com/en-us/azure/cosmos-db/configure-synapse-link
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-sql-api-spark
 https://docs.microsoft.com/en-us/azure/cosmos-db/analytical-store-introduction
 https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/query-cosmos-db-analytical-store?tabs=openrowset-key
@@ -176,6 +177,8 @@ https://learn.microsoft.com/en-us/azure/cosmos-db/serverless
 https://docs.microsoft.com/en-us/azure/cosmos-db/scripts/powershell/common/failover-priority-update
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-manage-indexing-policy?tabs=dotnetv2%2Cpythonv3
 https://learn.microsoft.com/en-us/azure/cosmos-db/sql/transactional-batch?tabs=dotnet
+https://learn.microsoft.com/en-us/azure/cosmos-db/synapse-link-power-bi
+https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/how-to-connect-synapse-link-cosmos-db
 
 
 
