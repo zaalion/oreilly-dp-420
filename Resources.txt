@@ -24,6 +24,7 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/sql/synthetic-partition-keys#co
 https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview#logical-partitions
 https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview#physical-partitions
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-query-container#in-partition-query
+https://learn.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-system-functions
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-query-container#cross-partition-query
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/synthetic-partition-keys
 https://docs.microsoft.com/en-us/azure/cosmos-db/set-throughput
