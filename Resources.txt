@@ -169,9 +169,12 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/sql/kafka-connector-sink
 https://docs.microsoft.com/en-us/azure/stream-analytics/azure-cosmos-db-output
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/create-sql-api-spark
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/templates-samples-sql
-https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-provision-autoscale-throughput?tabs=api-async
+https://learn.microsoft.com/en-us/azure/cosmos-db/provision-throughput-autoscale
+https://learn.microsoft.com/en-us/azure/cosmos-db/set-throughput
+https://learn.microsoft.com/en-us/azure/cosmos-db/serverless
 https://docs.microsoft.com/en-us/azure/cosmos-db/scripts/powershell/common/failover-priority-update
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-manage-indexing-policy?tabs=dotnetv2%2Cpythonv3
+https://learn.microsoft.com/en-us/azure/cosmos-db/sql/transactional-batch?tabs=dotnet
 
 
 
