@@ -179,6 +179,7 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-manage-indexing-poli
 https://learn.microsoft.com/en-us/azure/cosmos-db/sql/transactional-batch?tabs=dotnet
 https://learn.microsoft.com/en-us/azure/cosmos-db/synapse-link-power-bi
 https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-link/how-to-connect-synapse-link-cosmos-db
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-trigger?tabs=in-process%2Cextensionv4&pivots=programming-language-csharp
 
 
 
